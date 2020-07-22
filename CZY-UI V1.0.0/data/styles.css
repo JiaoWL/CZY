@@ -68,7 +68,7 @@
   color:#000000;
 }
 ._二级标题1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -138,7 +138,7 @@
 .flow_shape {
 }
 .heading_1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -161,4 +161,11 @@
   text-align:left;
 }
 .shape1 {
+}
+.marker {
+  color:#FFFFFF;
+}
+.box_21 {
+}
+.table_cell {
 }

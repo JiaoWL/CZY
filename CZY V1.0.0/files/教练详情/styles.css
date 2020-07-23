@@ -1938,26 +1938,33 @@
 }
 #u1895_seg0 {
   position:absolute;
-  left:0px;
-  top:-4px;
-  width:132px;
-  height:8px;
+  left:-4px;
+  top:0px;
+  width:8px;
+  height:23px;
 }
 #u1895_seg1 {
+  position:absolute;
+  left:-4px;
+  top:15px;
+  width:136px;
+  height:8px;
+}
+#u1895_seg2 {
   position:absolute;
   left:124px;
   top:-212px;
   width:8px;
-  height:216px;
+  height:235px;
 }
-#u1895_seg2 {
+#u1895_seg3 {
   position:absolute;
-  left:-7px;
-  top:-10px;
+  left:-10px;
+  top:-7px;
   width:20px;
   height:20px;
 }
-#u1895_seg3 {
+#u1895_seg4 {
   position:absolute;
   left:118px;
   top:-221px;
@@ -1967,7 +1974,7 @@
 #u1896 {
   position:absolute;
   left:78px;
-  top:-50px;
+  top:-31px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
@@ -2050,12 +2057,12 @@
   left:97px;
   top:-4px;
   width:8px;
-  height:231px;
+  height:233px;
 }
 #u1902_seg2 {
   position:absolute;
   left:97px;
-  top:219px;
+  top:221px;
   width:25px;
   height:8px;
 }
@@ -2064,7 +2071,7 @@
   left:114px;
   top:202px;
   width:8px;
-  height:25px;
+  height:27px;
 }
 #u1902_seg4 {
   position:absolute;
@@ -2083,7 +2090,7 @@
 #u1903 {
   position:absolute;
   left:51px;
-  top:72px;
+  top:74px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
@@ -3738,4 +3745,40 @@
   top:0px;
   width:25px;
   white-space:nowrap;
+}
+#u2023_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FontAwesome Bold', 'FontAwesome';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+}
+#u2023 {
+  position:absolute;
+  left:100px;
+  top:1526px;
+  width:30px;
+  height:30px;
+  font-family:'FontAwesome Bold', 'FontAwesome';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+}
+#u2024 {
+  position:absolute;
+  left:2px;
+  top:1px;
+  width:26px;
+  word-wrap:break-word;
 }
